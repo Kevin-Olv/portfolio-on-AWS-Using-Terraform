@@ -1,7 +1,7 @@
 locals {
   s3_bucket_name = "aws-cloudfront-portfoliotf"
   domain         = "https://d2a6a7yl91zwe4.cloudfront.net"
-  cert_arn       = "arn:aws:cloudfront::730335305158:distribution/E2A81M3MZJDXGE"
+  cert_arn       = "HIDDEN"
 }
 
 resource "aws_s3_bucket" "main" {
