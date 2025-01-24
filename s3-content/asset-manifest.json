@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4751a8b.css",
+    "main.js": "/static/js/main.bca7e186.js",
+    "static/js/856.f38aa7ae.chunk.js": "/static/js/856.f38aa7ae.chunk.js",
+    "static/media/falcon.jpeg": "/static/media/falcon.bd1b8e283ca8e5db2237.jpeg",
+    "static/media/currentme.jpg": "/static/media/currentme.348a7db0ef4e2ebf5b24.jpg",
+    "static/media/RCLC.png": "/static/media/RCLC.9d09a73243defcd59082.png",
+    "static/media/MSSansSerif.ttf": "/static/media/MSSansSerif.aa14e7b110864a3c2e08.ttf",
+    "static/media/Olvera_Resume24.pdf": "/static/media/Olvera_Resume24.b218bd3525dc90c2833b.pdf",
+    "static/media/kevin-olveradotcom.jpg": "/static/media/kevin-olveradotcom.f91c1e2c6028c1157584.jpg",
+    "static/media/ee.jpg": "/static/media/ee.7656e3a317181c8a39b1.jpg",
+    "static/media/Terminal.ttf": "/static/media/Terminal.6a1b7290048681921b2c.ttf",
+    "static/media/neverGiveUp.jpg": "/static/media/neverGiveUp.c9ee4e48677de77065a9.jpg",
+    "static/media/Millennium.ttf": "/static/media/Millennium.e16d74a8e8e0567ce30e.ttf",
+    "static/media/Millennium-Bold.ttf": "/static/media/Millennium-Bold.cd5e3be832ebd008c852.ttf",
+    "index.html": "/index.html",
+    "main.c4751a8b.css.map": "/static/css/main.c4751a8b.css.map",
+    "main.bca7e186.js.map": "/static/js/main.bca7e186.js.map",
+    "856.f38aa7ae.chunk.js.map": "/static/js/856.f38aa7ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4751a8b.css",
+    "static/js/main.bca7e186.js"
+  ]
+}
